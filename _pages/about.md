@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 
-I am actively seeking positions in data science and user research so that I can apply my technical skills and domain knowledge to the development of cutting-edge technologies. 
+I am working as a Data Scientist at Cognomotiv and as an Adjunct Faculty at University of Louisiana at Lafayette. I completed Ph.D. in Computer Science from University of Louisiana at Lafayette in Fall 2022.  
