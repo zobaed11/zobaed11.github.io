@@ -26,7 +26,7 @@ evaluate the efficacy and robustness of Edge-MultiAI under
 various configurations. The results reveal that Edge-MultiAI can
 stimulate the degree of multi-tenancy on the edge by at least 2×
 and increase the number of warm-starts by ≈ 60% without any
-major loss on the inference accuracy of the applications.<br/><img src='/images/edge-multiai.png'>"
+major loss on the inference accuracy of the applications.<br/><img src='/images/edge-multiai.png' alt="Edge MultiAI" style="width: 30%; height: auto;">"
 date: 2022-11-14
 venue: 'Proceedings of Utility Cloud Computing Conference, 2022'
 paperurl: 'https://arxiv.org/abs/2211.07130'
