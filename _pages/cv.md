@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Computer Science & Engineering, Islamic University of Technology, 2015
 * M.S. in Computer Science, University of Louisiana at Lafayette (R1: Top tier research Univeristy), 2019
-* Ph.D. in Computer Science, University of Louisiana at Lafayette (R1-top tier), 2022
+* Ph.D. in Computer Science, University of Louisiana at Lafayette, 2022
 
 Work experience
 ======
@@ -51,11 +51,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
   
 Teaching
 ======
