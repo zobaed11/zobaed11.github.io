@@ -1,26 +1,26 @@
 # main links links
 main:
     
-  - title: "Publications"
-    url: /publications/
+    - title: "Publications"
+      url: /publications/
  
-#  - title: "Preprints"
-#    url: /preprints/
+    #  - title: "Preprints"
+    #    url: /preprints/
   
-  - title: "CV"
-    url: /cv/ #/files/adkinsty_cv.pdf
+    - title: "CV"
+      url: /cv/ #/files/adkinsty_cv.pdf
 
-# - title: "Portfolio"
-#   url: /portfolio/
+    # - title: "Portfolio"
+    #   url: /portfolio/
     
-#   - title: "Talks"
-#     url: /talks/    
+    #   - title: "Talks"
+    #     url: /talks/    
 
-   - title: "Teaching"
-     url: /teaching/   
+    - title: "Teaching"
+      url: /teaching/   
    
-#   - title: "Blog Posts"
-#     url: /year-archive/
+    # - title: "Blog Posts"
+    #   url: /year-archive/
     
-#   - title: "Guide"
-#     url: /markdown/
+    # - title: "Guide"
+    #   url: /markdown/
