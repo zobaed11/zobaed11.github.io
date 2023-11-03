@@ -11,7 +11,7 @@ redirect_from:
 
 Hello and welcome!
 
-My name is Sm Zobaed, and I'm a Data Scientist and Machine Learning Engineer with a specialization in Natural Language Processing (NLP). Over the past few years, I have been privileged to harness the power of data and AI to solve complex problems, contributing significantly to the tech industry.
+I am Sm Zobaed, and currently, working as a Tenure-track Assistant Professor at Lincoln University. Besides teaching, I am a Data Scientist and Machine Learning Engineer with a specialization in Natural Language Processing (NLP). I used to work as a Data Scientist in a Silicon Valley-based AI-driven startup named Cognomotiv Inc. Over the past few years, I have been privileged to harness the power of data and AI to solve complex problems, contributing significantly to the tech industry.
 
 My journey in data science began after completing my Ph.D. in Computer Science, which sparked my interest in the intersection of technology, data, and machine learning. I've since developed advanced ML models for various domains, including multi-class and multi-label classification problems and CAN data anomaly detection.
 
@@ -24,6 +24,6 @@ I'm always eager to explore new opportunities and challenges in the field of dat
 Feel free to browse my website to learn more about my projects and experiences or reach out if you're interested in collaborating. I look forward to connecting with you!
 
 Best,
-Sm Zobaed
+Sm Zobaed, Ph.D.
 
 Please feel free to modify and personalize this as per your preferences.
