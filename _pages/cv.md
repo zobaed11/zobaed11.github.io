@@ -17,11 +17,9 @@ Education
 
 Work experience
 ======
-* Graduate Teaching & Research Assistant
-	* Developed a novel encrypted clustering scheme that estimates and forms topic‑based clusters of the encrypted text data with a 60% improvement in clusters’ coherency, 35% improvement in search accuracy, and 78% reduction of search‑time overhead.
-	* Developed SensPick, a stacked BiLSTM based word sense disambiguation mechanism that can identify contextual meaning of an ambiguous word. Incorporating semantic relationships brings SensPick to outperform other state of the art models by at least 3.5%.
-	* Developed SAED, a pluggable mechanism that offers intelligence in the form of semantic and personalized search at the edge tier while maintaining privacy of the search on the cloud tier by leveraging knowledge‑based lexical database, RNN, and transformer model.
-	* Acting as a grader and proxy lecturer, and test proctor of INFX 370 (Interactive web development) for consecutive 6 semesters.
+
+* Tenure-track Assistant Professor: Lincoln University, PA (Aug 2023- )
+	*Teaching Intro. to Python Programming, Computer Applications, & Interactive Web Programming in Fall 2023.
 
 * Data Scientist: Cognomotiv Inc. (June 2022- )
 	* Fine-tuned Bert for extremely large multi-class and multi-label classification problems that beats the prior sparse validation accuracy by 8%. The model was chosen for production pipeline.
@@ -30,8 +28,14 @@ Work experience
 	* Developed a CNN‑based model for predicting remaining useful battery life and deployed the model in Sagemaker for production.
 	* Experienced with guided/unguided topic modeling, Word2Vec, Fast sentence embedding, and Bert models.  
 
-* Adjunct Instructor (January 2023-)
+* Adjunct Instructor (January 2023-May 2023)
 	* Teaching INFX 240- Information Technology Infrastructure and INFX 320- Information Assurance and Security in Spring 2023.
+   
+* Graduate Teaching & Research Assistant (Aug 2017-Dec 2022)
+	* Developed a novel encrypted clustering scheme that estimates and forms topic‑based clusters of the encrypted text data with a 60% improvement in clusters’ coherency, 35% improvement in search accuracy, and 78% reduction of search‑time overhead.
+	* Developed SensPick, a stacked BiLSTM based word sense disambiguation mechanism that can identify contextual meaning of an ambiguous word. Incorporating semantic relationships brings SensPick to outperform other state of the art models by at least 3.5%.
+	* Developed SAED, a pluggable mechanism that offers intelligence in the form of semantic and personalized search at the edge tier while maintaining privacy of the search on the cloud tier by leveraging knowledge‑based lexical database, RNN, and transformer model.
+	* Acting as a grader and proxy lecturer, and test proctor of INFX 370 (Interactive web development) for consecutive 6 semesters.
 
 Skills
 ======
